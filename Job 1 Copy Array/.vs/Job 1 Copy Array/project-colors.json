@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e1da1a50-470c-4ca7-926d-66ecfdf0a854": {
+      "ProjectGuid": "e1da1a50-470c-4ca7-926d-66ecfdf0a854",
+      "DisplayName": "Job 1 Copy Array",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

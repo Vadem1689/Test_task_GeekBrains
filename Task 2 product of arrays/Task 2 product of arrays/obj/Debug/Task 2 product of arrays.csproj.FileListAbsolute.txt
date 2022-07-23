@@ -1,0 +1,8 @@
+C:\Users\Вадим\Desktop\Новая папка\Task 2 product of arrays\Task 2 product of arrays\bin\Debug\Task 2 product of arrays.exe.config
+C:\Users\Вадим\Desktop\Новая папка\Task 2 product of arrays\Task 2 product of arrays\bin\Debug\Task 2 product of arrays.exe
+C:\Users\Вадим\Desktop\Новая папка\Task 2 product of arrays\Task 2 product of arrays\bin\Debug\Task 2 product of arrays.pdb
+C:\Users\Вадим\Desktop\Новая папка\Task 2 product of arrays\Task 2 product of arrays\obj\Debug\Task 2 product of arrays.csproj.AssemblyReference.cache
+C:\Users\Вадим\Desktop\Новая папка\Task 2 product of arrays\Task 2 product of arrays\obj\Debug\Task 2 product of arrays.csproj.SuggestedBindingRedirects.cache
+C:\Users\Вадим\Desktop\Новая папка\Task 2 product of arrays\Task 2 product of arrays\obj\Debug\Task 2 product of arrays.csproj.CoreCompileInputs.cache
+C:\Users\Вадим\Desktop\Новая папка\Task 2 product of arrays\Task 2 product of arrays\obj\Debug\Task 2 product of arrays.exe
+C:\Users\Вадим\Desktop\Новая папка\Task 2 product of arrays\Task 2 product of arrays\obj\Debug\Task 2 product of arrays.pdb

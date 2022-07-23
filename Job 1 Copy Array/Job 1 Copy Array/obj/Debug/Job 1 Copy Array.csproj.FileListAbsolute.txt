@@ -1,0 +1,8 @@
+C:\Users\Вадим\Desktop\Новая папка\Job 1 Copy Array\Job 1 Copy Array\bin\Debug\Job 1 Copy Array.exe.config
+C:\Users\Вадим\Desktop\Новая папка\Job 1 Copy Array\Job 1 Copy Array\bin\Debug\Job 1 Copy Array.exe
+C:\Users\Вадим\Desktop\Новая папка\Job 1 Copy Array\Job 1 Copy Array\bin\Debug\Job 1 Copy Array.pdb
+C:\Users\Вадим\Desktop\Новая папка\Job 1 Copy Array\Job 1 Copy Array\obj\Debug\Job 1 Copy Array.csproj.AssemblyReference.cache
+C:\Users\Вадим\Desktop\Новая папка\Job 1 Copy Array\Job 1 Copy Array\obj\Debug\Job 1 Copy Array.csproj.SuggestedBindingRedirects.cache
+C:\Users\Вадим\Desktop\Новая папка\Job 1 Copy Array\Job 1 Copy Array\obj\Debug\Job 1 Copy Array.csproj.CoreCompileInputs.cache
+C:\Users\Вадим\Desktop\Новая папка\Job 1 Copy Array\Job 1 Copy Array\obj\Debug\Job 1 Copy Array.exe
+C:\Users\Вадим\Desktop\Новая папка\Job 1 Copy Array\Job 1 Copy Array\obj\Debug\Job 1 Copy Array.pdb
